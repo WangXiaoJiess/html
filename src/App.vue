@@ -6,6 +6,8 @@
 
 <style>
 *{
+  margin: 0;
+  padding: 0;
   font-size: 0.3rem;
 }
 </style>
