@@ -5,4 +5,7 @@
 </template>
 
 <style>
+*{
+  font-size: 0.3rem;
+}
 </style>
