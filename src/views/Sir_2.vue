@@ -15,7 +15,7 @@
       <ul class="ul1">
         <li class="li1">装修前</li>
         <li class="li1">装修中</li>
-        <li class="li1">装修后</li>
+        <li class="li1">装修后o</li>
       </ul>
 
       <div class="xiaotu">
